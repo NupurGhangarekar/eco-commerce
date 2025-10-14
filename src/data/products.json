@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "name": "Lavender Ceramic Pot",
+    "price": 499,
+    "category": "Planter",
+    "ecoScore": 85,
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=1"
+  },
+  {
+    "id": "p2",
+    "name": "Reusable Jute Bag",
+    "price": 249,
+    "category": "Home",
+    "ecoScore": 92,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=2"
+  },
+  {
+    "id": "p3",
+    "name": "Bamboo Cutlery Set",
+    "price": 349,
+    "category": "Kitchen",
+    "ecoScore": 88,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=3"
+  },
+  {
+    "id": "p4",
+    "name": "Organic Cotton Cushion",
+    "price": 799,
+    "category": "Home",
+    "ecoScore": 80,
+    "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=4"
+  },
+  {
+    "id": "p5",
+    "name": "Recycled Glass Vase",
+    "price": 599,
+    "category": "Decor",
+    "ecoScore": 90,
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=5"
+  },
+  {
+    "id": "p6",
+    "name": "Plant Care Kit",
+    "price": 999,
+    "category": "Gardening",
+    "ecoScore": 75,
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6"
+  }
+]
